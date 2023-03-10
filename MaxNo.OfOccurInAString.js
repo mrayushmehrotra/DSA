@@ -14,5 +14,5 @@ function charInString(str){
     return char || -1
 }
 
-const ans = charInString("Ayush Mehrotra")
-console.log(ans)
+const ans = charInString("Ayush Mehrotra");
+console.log(ans);
